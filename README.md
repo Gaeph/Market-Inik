@@ -73,7 +73,7 @@ Flow Navigation (Screen to Screen)
 [Chat With the seller]
 …
 ##Wireframes
-[Add picture of your hand sketched wireframes in this section]
+[https://www.figma.com/file/OKSB0JBzZSht2UX98YDeOC/Untitled?node-id=0%3A1]
 
 
 ###[BONUS] Digital Wireframes & Mockups
