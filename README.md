@@ -74,7 +74,7 @@ Flow Navigation (Screen to Screen)
 …
 ##Wireframes
 [https://www.figma.com/file/OKSB0JBzZSht2UX98YDeOC/Untitled?node-id=0%3A1]
-
+https://github.com/Gaeph/Market-Inik/blob/main/photo_2022-09-05_23-31-10.jpg
 
 ###[BONUS] Digital Wireframes & Mockups
 ###[BONUS] InteSchema
